@@ -15,3 +15,8 @@ The easiest 2D game engine: you bring the art, the AI writes the game logic. Win
 Free, lightweight voice changer and soundboard for any call app (Discord, WhatsApp…).
 
 [⬇ Download](https://github.com/tarl3s/EasyVocal/releases/latest)
+
+### 🎨 [EasyPixel](https://github.com/tarl3s/EasyPixel)
+Free pixel-art and sprite editor with Aseprite/Piskel-style tools, step-by-step pixel art lessons, and one-click export to EasyEngine. Windows, free, MIT.
+
+[⬇ Download](https://github.com/tarl3s/EasyPixel/releases/latest)
