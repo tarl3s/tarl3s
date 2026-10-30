@@ -2,8 +2,6 @@
 
 I make free tools for people who want to create things without fighting with code.
 
-![Profile views](https://komarev.com/ghpvc/?username=tarl3s&label=Profile%20views&color=2BB673&style=flat)
-
 ## Projects
 
 ### 🎮 [EasyEngine](https://github.com/tarl3s/EasyEngine)
