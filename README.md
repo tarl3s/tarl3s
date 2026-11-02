@@ -18,3 +18,13 @@ Free, lightweight voice changer and soundboard for any call app (Discord, WhatsA
 Free pixel-art and sprite editor with Aseprite/Piskel-style tools, step-by-step pixel art lessons, and one-click export to EasyEngine. Windows, free, MIT.
 
 [⬇ Download](https://github.com/tarl3s/EasyPixel/releases/latest)
+
+### 💡 [EasyCreator](https://github.com/tarl3s/EasyCreator)
+Learn programming, robotics and engineering from zero to university level: Python, JavaScript, C, C#, a simulated Arduino, physics, electrical, welding, rockets, cars and drones labs. English, Português, Español. Windows, free, MIT.
+
+[⬇ Download](https://github.com/tarl3s/EasyCreator/releases/latest)
+
+### ⏳ [SelfControl](https://github.com/tarl3s/SelfControl)
+Plan your week, get reminded, and keep distractions locked until today's tasks are done. Windows, free.
+
+[⬇ Download](https://github.com/tarl3s/SelfControl/releases/latest)
