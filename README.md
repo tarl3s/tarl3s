@@ -29,5 +29,7 @@ Plan your week, get reminded, and keep distractions locked until today's tasks a
 
 [⬇ Download](https://github.com/tarl3s/SelfControl/releases/latest)
 
-### 👾 [BuilderEngine] (https://github.com/tarl3s/BuilderEngine)
-A game engine where you build your mechanisms, then reuse it in any other project, increasing efficiency and productivity.
+### 🔨 [BuilderEngine](https://github.com/tarl3s/BuilderEngine)
+A 2D game engine where you build your own reusable mechanisms with blocks or a simple language, so every game you make is faster than the last. Opens and plays EasyEngine projects. Windows, free, MIT.
+
+[⬇ Download](https://github.com/tarl3s/BuilderEngine/releases/latest)
